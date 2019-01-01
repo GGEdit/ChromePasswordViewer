@@ -1,0 +1,9 @@
+﻿  ChExtracter.cpp
+f:\app01\project\chextracter\chextracter\chextracter.h(13): warning C4005: '_WIN32_WINNT': マクロが再定義されました。
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(215): note: '_WIN32_WINNT' の以前の定義を確認してください
+  コード生成しています。
+  2 of 2103 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  ChExtracter.vcxproj -> F:\app01\Project\ChExtracter\Release\ChExtracter.exe
